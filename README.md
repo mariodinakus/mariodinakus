@@ -12,6 +12,8 @@
   <a href="https://github.com/mariodinakus/sideline-sports">NBA Atlas</a>
   ·
   <a href="https://github.com/mariodinakus/monokairos">MONO Weather</a>
+  ·
+  <a href="https://github.com/mariodinakus/cosmos-lab">COSMOS LAB</a>
 </p>
 
 ---
@@ -43,6 +45,14 @@
   <a href="https://github.com/mariodinakus/world-faultline/tree/main/pax"><b>Explore PAX module</b></a>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+  <a href="https://github.com/mariodinakus/cosmos-lab"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/cosmos-lab.svg" width="52%" alt="COSMOS LAB mathematical universe project" /></a>
+  <p><strong>COSMOS LAB — The Mathematical Universe</strong></p>
+  <p>Interactive physics and mathematics labs, adjustable toy models, foundational questions and source-linked research papers with cautious summaries.</p>
+  <p><a href="https://github.com/mariodinakus/cosmos-lab"><b>View repository</b></a> · <a href="https://cosmos-lab-v3.vercel.app/radar.html"><b>Research Radar</b></a></p>
+</td>
+</tr>
 </table>
 
 ### Active products
@@ -69,6 +79,6 @@
 - **Data before decoration:** source links, timestamps and limitations when data are incomplete.
 - **From research to usable apps:** real-world dashboards, forecasts, interactive teaching and evidence-first tooling.
 - **Privacy and maintainability:** secrets stay out of Git; reviews and CI protect production code.
-- **Focused development:** four core products, two active supporting products; experiments are reviewed before expansion.
+- **Focused development:** five core products, two active supporting products; experiments are reviewed before expansion.
 
 <p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>

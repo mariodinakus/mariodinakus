@@ -53,9 +53,9 @@
   <p><a href="https://github.com/mariodinakus/cosmos-lab"><b>View repository</b></a> · <a href="https://cosmos-lab-v3.vercel.app/radar.html"><b>Research Radar</b></a></p>
 </td>
 <td width="50%" valign="top" align="center">
-  <p><strong>BETA STAR</strong></p>
-  <p>TODO: one-line description of Beta Star.</p>
-  <p><a href="https://github.com/mariodinakus/beta-star"><b>View repository</b></a></p>
+  <p><strong>BETA STAR MONITOR</strong></p>
+  <p>Daily monitoring of the b* signal (Messis, Alexandridis &amp; Zapranis, 2025) across ~430 S&amp;P 500 stocks: DtU/UtD candidates, equal-weight portfolio and Telegram alerts. <b>Research tool, not investment advice.</b></p>
+  <p><i>Repository access is restricted.</i></p>
 </td>
 </tr>
 </table>

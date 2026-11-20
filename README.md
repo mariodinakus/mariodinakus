@@ -46,11 +46,16 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
-  <a href="https://github.com/mariodinakus/cosmos-lab"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/cosmos-lab.svg" width="52%" alt="COSMOS LAB mathematical universe project" /></a>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/mariodinakus/cosmos-lab"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/cosmos-lab.svg" width="100%" alt="COSMOS LAB mathematical universe project" /></a>
   <p><strong>COSMOS LAB — The Mathematical Universe</strong></p>
   <p>Interactive physics and mathematics labs, adjustable toy models, foundational questions and source-linked research papers with cautious summaries.</p>
   <p><a href="https://github.com/mariodinakus/cosmos-lab"><b>View repository</b></a> · <a href="https://cosmos-lab-v3.vercel.app/radar.html"><b>Research Radar</b></a></p>
+</td>
+<td width="50%" valign="top" align="center">
+  <p><strong>BETA STAR</strong></p>
+  <p>TODO: one-line description of Beta Star.</p>
+  <p><a href="https://github.com/mariodinakus/beta-star"><b>View repository</b></a></p>
 </td>
 </tr>
 </table>
@@ -70,13 +75,6 @@
   <a href="https://github.com/mariodinakus/aoth"><b>View repository</b></a>
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top" align="center">
-  <p><strong>BETA STAR</strong> · <code>beta</code></p>
-  <p>TODO: one-line description of Beta Star.</p>
-  <a href="https://github.com/mariodinakus/beta-star"><b>View repository</b></a>
-</td>
-</tr>
 </table>
 
 ---
@@ -86,6 +84,6 @@
 - **Data before decoration:** source links, timestamps and limitations when data are incomplete.
 - **From research to usable apps:** real-world dashboards, forecasts, interactive teaching and evidence-first tooling.
 - **Privacy and maintainability:** secrets stay out of Git; reviews and CI protect production code.
-- **Focused development:** five core products, three active supporting products; experiments are reviewed before expansion.
+- **Focused development:** six core products, two active supporting products; experiments are reviewed before expansion.
 
 <p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>

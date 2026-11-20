@@ -70,6 +70,13 @@
   <a href="https://github.com/mariodinakus/aoth"><b>View repository</b></a>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+  <p><strong>BETA STAR</strong> · <code>beta</code></p>
+  <p>TODO: one-line description of Beta Star.</p>
+  <a href="https://github.com/mariodinakus/beta-star"><b>View repository</b></a>
+</td>
+</tr>
 </table>
 
 ---
@@ -79,6 +86,6 @@
 - **Data before decoration:** source links, timestamps and limitations when data are incomplete.
 - **From research to usable apps:** real-world dashboards, forecasts, interactive teaching and evidence-first tooling.
 - **Privacy and maintainability:** secrets stay out of Git; reviews and CI protect production code.
-- **Focused development:** five core products, two active supporting products; experiments are reviewed before expansion.
+- **Focused development:** five core products, three active supporting products; experiments are reviewed before expansion.
 
 <p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>

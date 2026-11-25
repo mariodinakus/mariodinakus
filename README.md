@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://github.com/mariodinakus?tab=repositories">Repositories</a>
   ·
+  <a href="https://hegemony-world-power.vercel.app">HEGEMONY</a>
+  ·
   <a href="https://github.com/mariodinakus/sideline-sports">NBA Atlas</a>
   ·
   <a href="https://github.com/mariodinakus/monokairos">MONO Weather</a>
@@ -21,6 +23,14 @@
 ### Core projects
 
 <table>
+<tr>
+<td colspan="2" valign="top" align="center">
+  <a href="https://hegemony-world-power.vercel.app"><img src="https://raw.githubusercontent.com/mariodinakus/mariodinakus/main/assets/hegemony.svg" width="70%" alt="HEGEMONY Global Power Intelligence project" /></a>
+  <p><strong>HEGEMONY — Global Power Intelligence</strong></p>
+  <p>Live comparison of world powers: economic, military, technological and diplomatic weight, and who is winning right now.</p>
+  <p><a href="https://hegemony-world-power.vercel.app"><b>Open live app</b></a> · <a href="https://github.com/mariodinakus/world-faultline/tree/main/hegemony"><b>View source</b></a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/mariodinakus/sideline-sports"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/nba-atlas.svg" width="100%" alt="NBA Atlas project" /></a>
@@ -85,6 +95,6 @@
 - **Data before decoration:** source links, timestamps and limitations when data are incomplete.
 - **From research to usable apps:** real-world dashboards, forecasts, interactive teaching and evidence-first tooling.
 - **Privacy and maintainability:** secrets stay out of Git; reviews and CI protect production code.
-- **Focused development:** six core products, two active supporting products; experiments are reviewed before expansion.
+- **Focused development:** seven core products, two active supporting products; experiments are reviewed before expansion.
 
 <p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>

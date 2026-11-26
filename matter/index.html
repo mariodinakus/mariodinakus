@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#141617">
+  <meta name="description" content="Εξερεύνησε τα υλικά ενός κινητού, τις χώρες παραγωγής τους και τις κοινές χρήσεις τους σε τρεις τεχνολογίες.">
+  <title>MATTER — Άτλας υλικών</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="scanner.css">
+  <script defer src="data.js"></script><script defer src="map.js"></script><script defer src="phone.js"></script><script defer src="scanner.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+  <header><div class="wrap top"><a class="brand" href="#device"><img src="icon.svg" width="33" height="33" alt="">MATTER</a><nav aria-label="Ενότητες"><a href="#scanner">Κάμερα</a><a href="#atlas">Άτλας</a><a href="#compare">Σύγκριση</a></nav></div></header>
+  <main class="wrap">
+    <section id="device" class="hero">
+      <div class="intro"><p class="eyebrow">ΑΤΛΑΣ ΥΛΙΚΩΝ</p><h1>Η ανατομία<br>ενός κινητού<span>.</span></h1><p class="lead">Άνοιξε τη συσκευή σε στρώσεις. Διάλεξε εξάρτημα και ακολούθησε τα υλικά του μέχρι τις χώρες παραγωγής.</p>
+        <a class="scancta" href="#scanner"><span aria-hidden="true">◎</span> Σκάναρε το δικό σου αντικείμενο</a>
+        <div class="spec"><span class="small">Συσκευή αναφοράς</span><strong>Redmi Note 13 Pro 5G</strong><a href="https://www.mi.com/gr/product/redmi-note-13-pro-5g/specs/" target="_blank" rel="noreferrer">Προδιαγραφές Xiaomi ↗</a></div>
+      </div>
+      <div class="instrument"><div class="instrument-head"><span class="mono">ΤΟΜΗ ΣΥΣΚΕΥΗΣ</span><span class="small">Σχηματική απεικόνιση</span></div><div id="phone"></div><label class="disassemble"><span>Συναρμολόγηση</span><input type="range" id="explode" min="0" max="100" value="75" aria-label="Απόσταση στρώσεων"><span>Ανάπτυξη</span></label></div>
+    </section>
+    <section class="detail" aria-label="Επιλογή εξαρτήματος"><div class="part-list" id="parts"></div><div class="part-body" aria-live="polite"><div><p class="eyebrow" id="partTag"></p><h2 id="partName"></h2><p id="partText"></p></div><div><div class="small">Διαδρομές υλικών</div><div id="partMaterials" class="chips"></div><a class="trace" href="#atlas">Άνοιγμα στον άτλαντα</a></div></div></section>
+    <section id="scanner" aria-label="Αναγνώριση αντικειμένου"></section><div id="scanResult" hidden aria-live="polite"></div>
+    <section id="atlas"><div class="section-heading"><div><p class="eyebrow">ΓΕΩΓΡΑΦΙΑ ΠΑΡΑΓΩΓΗΣ</p><h2>Ο άτλας των υλικών<span>.</span></h2></div><label class="field">Υλικό<select id="materialSelect"></select></label></div>
+      <div class="atlasbox"><div class="toolbar"><div id="stages" class="chips"></div><label class="year">Έτος <select id="year"></select></label></div><div class="atlasgrid"><div class="mapwrap"><div id="world"></div><div class="map-caption" id="selectedCountry" aria-live="polite"></div></div><div class="rankwrap"><p class="eyebrow" id="rankTag"></p><h3 id="rankTitle"></h3><div id="rank"></div></div></div><div class="evidence"><div><strong id="history"></strong><p id="scope"></p></div><a id="source" target="_blank" rel="noreferrer"></a></div></div>
+    </section>
+    <section id="compare"><div class="section-heading"><div><p class="eyebrow">ΚΟΙΝΑ ΥΛΙΚΑ</p><h2>Τι τα συνδέει<span>;</span></h2><p>Επίλεξε ένα υλικό για να δεις πού χρησιμοποιείται σε τρεις τεχνολογίες.</p></div></div><div class="chips" id="common"></div><div class="uses" id="uses" aria-live="polite"></div></section>
+    <footer><a class="brand" href="#device"><img src="icon.svg" width="24" height="24" alt="">MATTER</a><p>Οι διαδρομές αφορούν κατηγορίες εξαρτημάτων. Η προέλευση των υλικών της συγκεκριμένης συσκευής παραμένει ατεκμηρίωτη.</p><a href="https://github.com/mariodinakus/mariodinakus/tree/main/matter">GitHub ↗</a></footer>
+  </main>
+</body></html>

@@ -1,0 +1,30 @@
+#scanner .ms-panel{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.04fr);overflow:hidden;border:1px solid var(--line,#3d403f);border-radius:12px;background:var(--panel,#1c1f20)}
+#scanner [hidden]{display:none!important}
+#scanner .ms-view{position:relative;display:grid;place-items:center;min-height:350px;overflow:hidden;border-right:1px solid var(--line);background:radial-gradient(ellipse at 50% 48%,#323733 0%,#222726 40%,#171a1a 79%)}
+#scanner .ms-idle{display:grid;justify-items:center;gap:14px;padding:36px 16px 92px;color:#b4b7ab;text-align:center}
+#scanner .ms-idle svg{color:var(--accent)}
+#scanner .ms-video,#scanner .ms-photo{display:block;width:100%;height:auto;max-height:480px;object-fit:contain;padding-bottom:62px}
+#scanner .ms-tools{position:absolute;bottom:0;left:0;width:100%;padding:24px 15px 15px;display:flex;gap:7px;justify-content:center;flex-wrap:wrap;background:linear-gradient(transparent,rgba(16,18,18,.93))}
+#scanner button{padding:10px 13px;border:1px solid #555851;border-radius:6px;background:#282c29;color:var(--white,#f5f2e9);font-family:inherit;font-size:.91rem;font-weight:600;line-height:1.3}
+#scanner .ms-manual{align-self:flex-start;background:transparent;border:0;text-decoration:underline;text-underline-offset:3px;padding:3px 0;font-size:.85rem;color:#d9bba5}
+#scanner button:hover:enabled{background:#353a34;border-color:#a99b87}
+#scanner button:disabled{opacity:.48;cursor:default}
+#scanner .ms-controls{display:flex;flex-direction:column;gap:13px;padding:clamp(18px,3vw,34px);min-width:0}
+#scanner .ms-help,#scanner .ms-note,#scanner .ms-status{margin:0;line-height:1.47}
+#scanner .ms-help{color:#e1e3dc}
+#scanner .ms-note{font-size:.84rem;color:#aaafa6}
+#scanner .ms-status{font-size:.93rem;color:#efbc96}
+#scanner .ms-status:empty{display:none}
+#scanner .ms-actions{display:flex;gap:7px;flex-wrap:wrap}
+#scanner .ms-actions button{font-size:.86rem}
+#scanner .ms-select,#scanner .ms-label label{display:grid;gap:6px;font-size:.88rem;color:#c2c6bd}
+#scanner select,#scanner textarea,#scanner .ms-label input{width:100%;padding:10px 11px;border:1px solid #535851;border-radius:6px;background:#191c1a;color:#f5f2e9;font:inherit}
+#scanner textarea{resize:vertical;min-height:65px}
+#scanner .ms-check{display:flex;align-items:flex-start;gap:8px;font-size:.9rem}
+#scanner .ms-check input{accent-color:var(--accent)}
+#scanner .ms-primary{align-self:flex-start;color:#211810;background:var(--accent);border-color:var(--accent)}
+#scanner .ms-primary:hover:enabled{background:#ffc299;color:#211810}
+#scanner .ms-label{display:grid;gap:12px;padding:14px;border:1px solid #59564a;border-radius:8px;background:#242720}
+#scanner .ms-evidence{display:grid;gap:8px}
+#scanner .ms-evidence button{justify-self:start;font-size:.82rem}
+@media(max-width:760px){#scanner .ms-panel{grid-template-columns:1fr}#scanner .ms-view{border-right:0;border-bottom:1px solid var(--line);min-height:244px}#scanner .ms-photo,#scanner .ms-video{max-height:340px}}

@@ -71,6 +71,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
+  <a href="https://cortex-science-galaxy.vercel.app"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/cortex.svg" width="100%" alt="CORTEX galaxy of science project" /></a>
   <p><strong>CORTEX — The Galaxy of Science</strong></p>
   <p>A 3D galaxy of scientific fields and papers built from OpenAlex data: explore how disciplines connect, grow and cluster.</p>
   <p><a href="https://cortex-science-galaxy.vercel.app"><b>Open live app</b></a></p>
@@ -103,6 +104,6 @@
 - **Data before decoration:** source links, timestamps and limitations when data are incomplete.
 - **From research to usable apps:** real-world dashboards, forecasts, interactive teaching and evidence-first tooling.
 - **Privacy and maintainability:** secrets stay out of Git; reviews and CI protect production code.
-- **Focused development:** seven core products, two active supporting products; experiments are reviewed before expansion.
+- **Focused development:** eight core products, two active supporting products; experiments are reviewed before expansion.
 
 <p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>

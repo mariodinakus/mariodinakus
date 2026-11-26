@@ -74,7 +74,7 @@
   <a href="https://cortex-science-galaxy.vercel.app"><img src="https://raw.githubusercontent.com/mariodinakus/sideline-sports/main/docs/profile/assets/cortex.svg" width="100%" alt="CORTEX galaxy of science project" /></a>
   <p><strong>CORTEX — The Galaxy of Science</strong></p>
   <p>A 3D galaxy of scientific fields and papers built from OpenAlex data: explore how disciplines connect, grow and cluster.</p>
-  <p><a href="https://cortex-science-galaxy.vercel.app"><b>Open live app</b></a></p>
+  <p><a href="https://cortex-science-galaxy.vercel.app"><b>Open live app</b></a> · <a href="https://github.com/mariodinakus/cortex-science-galaxy"><b>View repository</b></a></p>
 </td>
 <td width="50%" valign="top"></td>
 </tr>

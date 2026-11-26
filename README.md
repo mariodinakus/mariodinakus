@@ -69,6 +69,14 @@
   <p><i>Repository access is restricted.</i></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <p><strong>CORTEX — The Galaxy of Science</strong></p>
+  <p>A 3D galaxy of scientific fields and papers built from OpenAlex data: explore how disciplines connect, grow and cluster.</p>
+  <p><a href="https://cortex-science-galaxy.vercel.app"><b>Open live app</b></a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ### Active products

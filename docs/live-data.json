@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T03:49:25.241067+00:00",
+  "generatedAt": "2026-11-27T13:56:24.043448+00:00",
   "data": {
     "nba": {
-      "asOf": "2026-11-27T03:49:18.460Z",
+      "asOf": "2026-11-27T13:56:17.529Z",
       "simulations": 10000,
       "teams": [
         {
@@ -12,40 +12,40 @@
         },
         {
           "name": "Boston Celtics",
-          "champion": 13.6,
-          "wins": 53.2
+          "champion": 13.2,
+          "wins": 53.3
         },
         {
           "name": "Los Angeles Lakers",
-          "champion": 9.7,
-          "wins": 54.6
+          "champion": 9.8,
+          "wins": 54.5
         },
         {
           "name": "Houston Rockets",
-          "champion": 6.4,
-          "wins": 52.5
+          "champion": 6.7,
+          "wins": 52.6
         },
         {
-          "name": "Oklahoma City Thunder",
-          "champion": 6,
-          "wins": 49.1
+          "name": "New York Knicks",
+          "champion": 5.8,
+          "wins": 49.3
         }
       ]
     },
     "geo": {
-      "asOf": "2026-11-27T03:49:15.042Z",
+      "asOf": "2026-11-27T13:56:13.577Z",
       "pairs": [
         {
           "name": "USA / CHN",
-          "score": 70
+          "score": 68
         },
         {
           "name": "RUS / NATO",
-          "score": 67
+          "score": 71
         },
         {
           "name": "ISR / IRN",
-          "score": 88
+          "score": 91
         },
         {
           "name": "IND / PAK",
@@ -53,40 +53,40 @@
         },
         {
           "name": "CHN / TWN",
-          "score": 56
+          "score": 61
         },
         {
           "name": "CHN / JPN",
-          "score": 82
+          "score": 90
         },
         {
           "name": "KOR / PRK",
-          "score": 86
+          "score": 89
         },
         {
           "name": "USA / VEN",
-          "score": 41
-        },
-        {
-          "name": "GRC / TUR",
           "score": 36
         },
         {
+          "name": "GRC / TUR",
+          "score": 22
+        },
+        {
           "name": "RUS / UKR",
-          "score": 88
+          "score": 90
         },
         {
           "name": "USA / IRN",
-          "score": 79
+          "score": 81
         },
         {
           "name": "CHN / PHL",
-          "score": 41
+          "score": 40
         }
       ]
     },
     "power": {
-      "asOf": "2026-11-27T03:49:15.357Z",
+      "asOf": "2026-11-27T13:56:14.004Z",
       "headline": {
         "score": 33,
         "system": "Διαστημικός καιρός",
@@ -100,32 +100,32 @@
           "components": [
             {
               "k": "Απόκλιση συχνότητας",
-              "v": "-4 mHz",
+              "v": "3 mHz",
               "s": 5
             }
           ]
         },
         {
           "name": "Ελλάδα",
-          "score": 0,
+          "score": 5,
           "components": [
             {
               "k": "Ηλιακά + αιολικά (inverter-based)",
-              "v": "38.2%",
-              "s": 0
+              "v": "42.6%",
+              "s": 5
             }
           ]
         }
       ]
     },
     "outages": {
-      "asOf": "2026-11-27T03:49:25.226Z",
+      "asOf": "2026-11-27T13:56:23.949Z",
       "down": 1,
       "degraded": 3,
       "ongoing": 0
     },
     "science": {
-      "asOf": "2026-11-27T03:49:14.833Z",
+      "asOf": "2026-11-27T13:56:13.416Z",
       "count": 45,
       "items": [
         {
@@ -161,62 +161,62 @@
       ]
     },
     "pax": {
-      "asOf": "2026-11-27T03:49:16.092Z",
+      "asOf": "2026-11-27T13:55:14.612Z",
       "items": [
         {
-          "title": "Trump urges Putin to 'quickly' reach peace deal",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rOFljTTNIWklHZXBVZzNiQVRZQUxuaTU5YW5iM0J6b3R6QlN1QjN4NHBRSUpyblo0NVo1WEhkMzZTZEdHTTR5NlpEYWlrNEJWeEwtNExLYW4?oc=5",
-          "publishedAt": "2026-11-27T03:02:32.000Z"
+          "title": "Europe preparing for war with Russia, demanding truce in Ukraine: Russian FM Lavrov says US displaying more \"political maturity\"",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTmRCZnU0QTBJQlBhZ2ZHVzRBT3hQQVFPY1ozZDdoYnBvRE1jLVBZdFlfUW4wVEY2UzlFNzZBLVVnOVFtRkp6YUVqZkFkTHBVLWFiVkg2LU9QZHA4d3haR0Z0WVB4RE1vVGx3RWViaDAtNzRBdUxkX1ZsaDM1c3JTRTAxS056RnBSM3RGM0R5eUprcXJocEV3S2pZTkd5LXg3Qm01alJaZzJuNjJSbER1Q2dCRzlJaFhRU1NCQ29MQzRJM21hZUxoS0ZFZ2JaRFpJdURMYVVVakhSQWJTYkxzZDRQcTBaQVYxWVRKZktLMEZaVkFPcnp2a3haeGNRLTNIUnAtajJ2UHZsZ3c?oc=5",
+          "publishedAt": "2026-11-27T13:44:00.000Z"
         },
         {
-          "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
-          "publishedAt": "2026-11-27T02:20:43.000Z"
+          "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMTAycm5KeFhHa3BBVEdfRFduN2VQLWs2bXhRVjVnRTU4SjVpZ1ZaRDBQX25oM3VQVkk1TDFkRzgxak5qT00ydUVoQ2c5MV8zNC1ITzRsTU5nNDFTWlRfMVkycGNpSUxoM2NhYVdVaGdOTVVRdk9GZ1FRaTFiSlFPS2g4bE5jdmFxT1ozbnhwV21MeGJrQ2RWcl9SR0U5TENqY3FwejFQOE5SZ3JLWUZOVVlCT2hUeFNUMFoxWnlTUWhXcVZxVS1weDFxRTJqek1JeWc?oc=5",
+          "publishedAt": "2026-11-27T13:04:39.000Z"
         },
         {
-          "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHkwODhwOVM0WVNRa3lKWGtfMWhya1hjcm1mWHRJQzlHM2JXRUxwWW1zOEpwTGJ0Z2NjMEhFZzdJQnlxSTBUVWJrVWwxZDQ5S2pyS3B5RkxxOEZRWVBzcjRfTmJSc0VOa0k3MlBKQWM0LWxmdWZxN1NJeS1kSVZOSGFiMHRTX0hocWp2UzU0VGdPN2hSYjhNd0lCLU41cUJjZDFCSmZHSnVLQTVNMmVWNWdKMDUyWlU4V2Q2dGVn?oc=5",
-          "publishedAt": "2026-11-27T01:19:00.000Z"
+          "title": "North Korea halts Russia military aid over Seoul row, Kyiv says",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVNIZ0d2OHBnRERBR05hTDN3ZVFtVnJWRXBVTmxrdTk1bHBSMjViVF9WY0N1eWdYSzFyRmdub09HWHRHT1dHMlRSZVJzeG5FX0J1N21rcnY2WXNUeWtBUUUwbTVJV21tYWMyU2wwczJKNHYwWjhzRFFQNnEwRmQ4ZzFERmstQjljODFYdmVGQzM3dTVzRklpakRoeHpWUzg?oc=5",
+          "publishedAt": "2026-11-27T12:53:58.000Z"
         },
         {
-          "title": "Inside Ukraine’s power crisis amid its war with Russia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-          "publishedAt": "2026-11-27T00:46:19.000Z"
+          "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
+          "url": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-27T12:37:00.000Z"
         },
         {
-          "title": "Trump says Putin can come to G20 if he wants",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
-          "publishedAt": "2026-11-27T00:35:00.000Z"
+          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+          "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+          "publishedAt": "2026-11-27T11:44:46.000Z"
         },
         {
-          "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVJlbHg3YkhOX1Z1RVlSU1pkelg3dERVTzhPZWhPSVFmeS1QSENNQTRRc3hnWnBqSlBxRVVXQ0pQRi1zaloybXRIbGpvTFpWbEQybWFzQTV6cTZ3Y3EtVHlnNENiYkRNYXNXQ2prTkNEM1VleGtIMEgtQTZBVmo4MnBITDA2Z29QSnZsaEcxcFVIUkxHM1pxeXRTU05fUnRicHZkUjYyeVRqQkJEbVpLMTJTcXh6c3I5cmpqRmlR?oc=5",
-          "publishedAt": "2026-11-27T00:29:33.000Z"
+          "title": "Zelenskyy says Trump's relationship with Putin like being friends with Hitler",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXhCdVBPRnA5dXladXI1Y1hLTC1qX0V5UXV5RUtsejdfV0JKU0h2VWgzek54NUFYek8yWTdPOTh1eHp4UkhUeV91NzYzalBuV3VoRll3MHFxcnd6Qmg1SE9vcmpXaGtKTHlabURmQnZnN2h1bGJPT19OUzY1YUR1R3JBTktPa0ZHdm5xOXVNODVqVzI1bUlORk9wYWJqTm1fbDVJbFdlUVcyMnY0NHN2YjdLcw?oc=5",
+          "publishedAt": "2026-11-27T11:41:15.000Z"
+        },
+        {
+          "title": "1 killed, 9 injured in Russia-Ukraine overnight strikes",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3VDRXJOUjk0cTZrcTJtV25RTFRsVkNMVE82NE1FTnpRU213OFRqelcwV0tUQVpQUFFBWGxXbUFPU3BKc0R1QUJWSll4T2RBbmZtT3AwRmJPdHlMejQtTHVHWnVlNHJKempzZGxIQWdPLTdXSkxKeXRrU3p2MHlLTkY5dllOREtWSllHeVMzRmpJbXpOeXRxTU5JLUdLMl9EdVhaNUVibTV5QQ?oc=5",
+          "publishedAt": "2026-11-27T10:29:39.000Z"
         },
         {
           "title": "Zelensky tells BBC US too focused on Middle East and not pushing Russia hard enough",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yT0hCRWtIQ0V5LUJBTTNOSV8zZUY5X3FrRDFKWWRmYTJPVVdGOUZGV0xLREZDamtPWURqSndUVmVqY1NJUG4tNDBKeTdkbW9wdTBJVV9uLS16OUk?oc=5",
-          "publishedAt": "2026-11-26T22:49:27.000Z"
+          "publishedAt": "2026-11-27T09:07:48.000Z"
         },
         {
-          "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
           "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-26T22:49:27.000Z"
+          "publishedAt": "2026-11-27T09:07:48.000Z"
         },
         {
-          "title": "Zelenskiy says Russia preparing new mass strike in coming days",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5",
-          "publishedAt": "2026-11-26T22:16:00.000Z"
-        },
-        {
-          "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-11-26T22:06:20.000Z"
+          "title": "Trump and NATO Chief Warn Russia Against Expanding Ukraine War",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Nm9jSTVuaDdBV3hsRldRNHZTX3cwNnV2djh3QUpQa21SeGh0Si1YdFlCNDgtV3laaGViWmtiSFNkUzQ3MjFVYTdwa2w5ZHphZVRYdlRTaWZ5dkt4TmdDbkdB?oc=5",
+          "publishedAt": "2026-11-27T09:03:41.000Z"
         }
       ]
     },
     "duty": {
-      "asOf": "2026-11-27T03:49:16.299109+00:00",
+      "asOf": "2026-11-27T13:56:14.922085+00:00",
       "date": "2026-11-27",
       "entries": [
         {

@@ -1,107 +1,107 @@
 {
-  "generatedAt": "2026-11-28T04:19:47.624442+00:00",
+  "generatedAt": "2026-11-28T13:40:51.867810+00:00",
   "data": {
     "nba": {
-      "asOf": "2026-11-28T04:19:40.856Z",
+      "asOf": "2026-11-28T13:40:51.808Z",
       "simulations": 10000,
       "teams": [
         {
           "name": "San Antonio Spurs",
-          "champion": 22.4,
-          "wins": 58.1
+          "champion": 21.2,
+          "wins": 58
         },
         {
           "name": "Boston Celtics",
-          "champion": 12.4,
-          "wins": 52
+          "champion": 10,
+          "wins": 51.2
         },
         {
           "name": "Los Angeles Lakers",
-          "champion": 9.9,
-          "wins": 54.7
+          "champion": 7.7,
+          "wins": 53.5
         },
         {
           "name": "Houston Rockets",
-          "champion": 6.5,
-          "wins": 52.5
+          "champion": 7.1,
+          "wins": 52.9
         },
         {
-          "name": "Miami Heat",
-          "champion": 5.9,
-          "wins": 49.6
+          "name": "Memphis Grizzlies",
+          "champion": 6.4,
+          "wins": 51.3
         }
       ]
     },
     "geo": {
-      "asOf": "2026-11-28T04:19:37.629Z",
+      "asOf": "2026-11-28T13:40:49.038Z",
       "pairs": [
         {
           "name": "USA / CHN",
-          "score": 81
+          "score": 82
         },
         {
           "name": "RUS / NATO",
-          "score": 70
+          "score": 71
         },
         {
           "name": "ISR / IRN",
-          "score": 91
+          "score": 87
         },
         {
           "name": "IND / PAK",
-          "score": 58
+          "score": 64
         },
         {
           "name": "CHN / TWN",
-          "score": 69
+          "score": 77
         },
         {
           "name": "CHN / JPN",
-          "score": 85
+          "score": 82
         },
         {
           "name": "KOR / PRK",
-          "score": 79
+          "score": 67
         },
         {
           "name": "USA / VEN",
-          "score": 27
-        },
-        {
-          "name": "GRC / TUR",
           "score": 29
         },
         {
+          "name": "GRC / TUR",
+          "score": 34
+        },
+        {
           "name": "RUS / UKR",
-          "score": 90
+          "score": 86
         },
         {
           "name": "USA / IRN",
-          "score": 85
+          "score": 90
         },
         {
           "name": "CHN / PHL",
-          "score": 39
+          "score": 38
         }
       ]
     },
     "power": {
-      "asOf": "2026-11-28T04:19:37.753Z",
+      "asOf": "2026-11-28T13:40:49.528Z",
       "headline": {
-        "score": 11,
-        "system": "Διαστημικός καιρός",
+        "score": 7,
+        "system": "Ηπειρωτική Ευρώπη",
         "label": "ΚΑΝΟΝΙΚΗ ΛΕΙΤΟΥΡΓΙΑ",
         "tone": "calm"
       },
       "systems": [
         {
           "name": "Ηπειρωτική Ευρώπη",
-          "score": 8,
+          "score": 7,
           "components": [
             {
               "k": "Απόκλιση συχνότητας",
-              "v": "-10 mHz",
-              "s": 8
+              "v": "6 mHz",
+              "s": 7
             }
           ]
         },
@@ -111,7 +111,7 @@
           "components": [
             {
               "k": "Ηλιακά + αιολικά (inverter-based)",
-              "v": "18.6%",
+              "v": "38.8%",
               "s": 0
             }
           ]
@@ -119,13 +119,13 @@
       ]
     },
     "outages": {
-      "asOf": "2026-11-28T04:19:47.575Z",
+      "asOf": "2026-11-28T13:40:49.016Z",
       "down": 1,
       "degraded": 3,
       "ongoing": 0
     },
     "science": {
-      "asOf": "2026-11-28T04:19:37.085Z",
+      "asOf": "2026-11-28T13:40:49.864Z",
       "count": 45,
       "items": [
         {
@@ -161,62 +161,62 @@
       ]
     },
     "pax": {
-      "asOf": "2026-11-28T04:19:38.421Z",
+      "asOf": "2026-11-28T13:40:50.299Z",
       "items": [
         {
-          "title": "9 children returned to Ukraine in Melania Trump-brokered exchange with Russia",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94SmY0YmtSRGZCblhKVXNQN0tzRWxhZG5HTmFCS3hVQm5fZFRVS3NUVDVwS19qcW1oczFQNHh0SEdIeWdZWTB0ai12U0tIRGMzMll3c1NKR28xQQ?oc=5",
-          "publishedAt": "2026-11-28T03:02:27.000Z"
+          "title": "Putin unveils new nuclear submarine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+          "publishedAt": "2026-11-28T13:32:51.000Z"
         },
         {
-          "title": "Ukraine Offers Black Sea Cease-Fire, Awaits Kremlin Response",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2d6OU4zb05hQ3lWZ0ZleV94bklMYUdSa05DNDEzYUZyWElQMG5LVW93WG54UTlKT0ExaVUtYl96RFZFN1U2VGJBR0NEVkp2aUlUdTVvRVNyVWNWN1pzLTlwalhObWR0ZDFvSG1ZWU5WbjczVC1ZWVdmMzhHZ0g0V0gwdTJkSkxoZEp6clpxTWlydXfSAZYBQVVfeXFMUENWNzJvQ1NLb2R4OUVBbGpvNW5saUpKbmhDT2FjeWVVbVV0eWdTbFpMYWJmMzRQMnhvSWtaT2RNUjFDaW13UWduRWM3cDdJWVB4ZzJDZ3hMbmltLUVBOFZUcnVoRURvRFNxeFFDZGZyMmNMeHU0OUZwMnNBT0JBVTRUdndWVnF1cTdwdElNQ052MDBtSml3?oc=5",
-          "publishedAt": "2026-11-27T23:05:03.000Z"
+          "title": "Ukraine's expertise comes in handy for international drone alliances",
+          "url": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-11-28T12:52:00.000Z"
         },
         {
-          "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
-          "publishedAt": "2026-11-27T21:17:40.000Z"
+          "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFZjQ2xkMHo2aUpiZUIwaVp4UlV6U1k3R3gyMGFVS1RRS1VpSUFGNzZzcEVEZXBWRE8tdk9wLU13WWlNaFdRV1IxeTZnbi1UMm1Vb1dMNTIxU2lvWlhyTWU0OWNITEs1anYyRDliUTZqdHFLck42TVNPWXA3eUFYX3V3Nnd3aWVaWUFkRUpiQQ?oc=5",
+          "publishedAt": "2026-11-28T10:02:15.000Z"
         },
         {
-          "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXNRZXdNdVkybkZ1TXRQSlFzaXNXT2xNM252Xzg4TWpfUmVYUi1DVjhuREFHT1ZKbVdWNjc1U2pTUWJtZmRFeWtKa2Y1cFBXR1VZRGg4dHZ2NkxPSE80YTl1VG1rdnkyYW1OUFFDRUhzUGJnQzcxOEkxSlUxU0hXb19ZTjQxYmV6eUFCWUZZc24xMkJubE9BNFAxZlVuTXZTRG5OUGdlQTVmWVEyOEE?oc=5",
-          "publishedAt": "2026-11-27T21:09:12.000Z"
+          "title": "Video. Putin unveils Russia's newest nuclear-powered submarine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0E0djl2dWxfRGdnckc5Ny1XQlNwWjBPMmpqT2xRVGljUkc1Mk11MlZlVmh2QXphVGZ3T1dBcTVkZTdvNFRFNjB2RUt2QTMwWFRjY0lFNVpIelc5ekxGWnZ1Tl9ycTV2eTgzQW5CMjRpM243WjE3dkNOUGRBUDN2R1BRSWVZTHJITF96RkZyTE1rZHlfdHpkNkZITVU?oc=5",
+          "publishedAt": "2026-11-28T08:40:27.000Z"
         },
         {
-          "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-          "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-          "publishedAt": "2026-11-27T20:39:57.000Z"
-        },
-        {
-          "title": "Kremlin Negotiator Says He Regularly Uses AI to Strengthen Russia’s Position in Peace Talks",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjV6RF95c1c4VndHWkdfX3RoS3BQVDJqYno3NHpuajIzYW1VMGVoYl9NcDhYVjFXV2YtZDZiOG5FNjViN0txT3phY2pEV0FZbmQ4djBEdFFxVWlUcU1udWJFMXo2bkJhSnp4RW81N09HTW5Ca0laZk1LZmhMZmFKSDhnMWJXQlJHV0lrNDlBX0NRQVVJbi1YMnR3b1JUbC16TnR6MTlMVzB4LXVQbEpwcUFYd25LMlRiUlZMQWh5N2UwU3F0eUMw?oc=5",
-          "publishedAt": "2026-11-27T20:21:03.000Z"
-        },
-        {
-          "title": "‘An advocate for Russia’: Kushner’s Putin comments spark outrage in Europe",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnYzbHdEeno0ZzVfb1plRmZlMTU1MTRseE40amlfTU5VYjdPbjk1S0FYRlZXTjdmVEQwT1hMMUNQRDlJVF82eGVJZkFTVHpVOUxlUXZuQUNwNVJWWGtjb1gyQ1dLREVWMjhZYjY2ckVzRkIzOG1LamgybTM5bXI0RWYzc0ppUDAzbFRORFVHR0lJTXZkZ00xOWJ4YTFWQXJDTlNHbHg5RzJGX1JUR0hhNmJvVjc?oc=5",
-          "publishedAt": "2026-11-27T20:10:00.000Z"
-        },
-        {
-          "title": "Zelenskyy urges US to pressure Putin and questions Trump’s reference to Putin as a ‘friend’",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZncjd6TjJOQy1tZVlWUVowZ0hBY2NWMjN2d1k3WXdzUlB4VUdlbl9kMDdLTnZ2bzY5eGlZUGFNSEQxYVNCaVNRYWlBTkZneUxoZm5ub1Q2MVd3QjFza1BJWWhiWEQ2Tk1aUE1jVlByV0h6NldmUC1NOUQ5WW5ka3pqdUFwaXI1SEd4VzNzUGNoZ2c5WG5Yd3dFeWpyY0taN3c?oc=5",
-          "publishedAt": "2026-11-27T19:33:00.000Z"
+          "title": "Russia downs drones as Kyiv reports first jet drone shot down by laser",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWpCbWJkWEZhQXY2d2RLYmFJcXoyUWQxbGF1LTk3dThibG5OemRqRktFVm1vVDFtNUl0Tk45Tko4RENWMGJKU2FEUjF4NFdBdUFUS0dWcl9ZSk5aQ1B5d2g3b0VMUElzWnRwOC1lQlhGOXhWYWVhTUhYdzVESVFaSEg2cmpDMGh1QXR1UEk1dUtfd3N6Y0hLNjRvbE0xVlZVWS1YNGI3NnJEcXVWZG5tN3l3VlpkZm9VUUVTY0lkZmY4V2JP?oc=5",
+          "publishedAt": "2026-11-28T07:35:12.000Z"
         },
         {
           "title": "Ukraine proposes Black Sea ceasefire, awaits Russia's response",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BX2dQeG9pUjEwMmZJeTVxWmEwSWJQZnVaLUh1OEZpTXZaTHh6RWl5cTE2MVRla3Mxd3J1SF9qYVRQUzZiV2ttZ1RqV2JHbUp3US1wcVBjZm8zNldURTUtZ08wcDF3MTEwSUZrREY2dnFYekQ3MWYtYklzNkE?oc=5",
-          "publishedAt": "2026-11-27T19:06:15.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZjNzTzVmT0JUT2JFclpaMl9RRXJSTTMwbVJuMGZQX0JCb2JETnBzLXpwSFhxWUVpMEc2cnUyQ2hOeHBEN0dMSi04OUtCVVhqLUN5MnpzZEg?oc=5",
+          "publishedAt": "2026-11-28T07:14:21.000Z"
         },
         {
-          "title": "AfD leader blames Boris Johnson for sinking Ukraine peace talks",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2Z0aGh3d2lmdmlESXRobVk0YlgzXzhvN1c1TEt2WEEtVVcyZ2E0aEJ1bFlDYUZQUUVEVmljWW5LaXk2cVhObEw0YU5oSDRUY3gzbl9Ra0t2Sm1va0M3RjRPdEE0dzJkdnlJUWtIcV9CWnRBUElVenR1MTU2WHlDVVFLcUNHbzNPZWxIbWotaUp4aWtoOG83SVdXcGxKWVJyTExBaGF2UDV6U0xz?oc=5",
-          "publishedAt": "2026-11-27T19:00:00.000Z"
+          "title": "Russia charges air force deputy chief with taking large bribe",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUtiMUZCNjFKYVM4ZURRT3VWX1ZLNThoVFl0YkExdVdRamZMMUFyU2hQeDdieEZlOUZpYnMtTnlnVkRTNVJKYlVCbFhTTkdjY210QXdDbUxCb0tWNVlGOE85WG5malZ2ZVBQV19pZV9qNE8yX2EycnJOLS1MdVNPVjhpYm8zXzNRZXFIZ3VBT04zS0dsQU9aM1hUR3dCQQ?oc=5",
+          "publishedAt": "2026-11-28T06:00:07.000Z"
+        },
+        {
+          "title": "Ukraine Submits Black Sea Ceasefire Proposal for Food Exports, Awaits Russia Response: 15 outlets compared",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM2YwOGtZN2doZGVHZjNNbWJQRFNQdGp0X2ppOVlrTGc2dVJZSlJOZ2xpQ1RUU1BzRVc4Q2R6b0ZqWHlQWVVlc2dOUXNtRktTMWJBdnN6VlkwNmMwX21DZ2VyTzkwQ0wxUGtwc2FyYWNuTVFRbGs2RzBBWGVQanhvRThzVEtGRmZJNGQ3eVFYT3VYNXNUcGlrMkNxYUVPY3NUTXdEYks1NHU3VlhRZmhfUDdfSGI4SHpwRmJ0QXVVSzEwNS1KWXM3RkQyMXZwYk0?oc=5",
+          "publishedAt": "2026-11-28T05:21:06.000Z"
+        },
+        {
+          "title": "Kremlin says the EU's planned Ukraine funding risks derailing renewed peace negotiations",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldyWEZ3SlhJRE5Zdy1CWDlaalFIaS1UQnVlemhoVDN2NXZRU3JsWGlidDZZWFcyZWJXN1JiQzd3dkdqRUluVFFzVEFoMDBUeE5LLU9Ic1VlRWtaWlNzR2M0SXlSejZ1MERJZEd1azVLU1hzUkZ6SkNQcVlReER0MHNRZzE5THotZXJ2c2tsNDJrZw?oc=5",
+          "publishedAt": "2026-11-28T05:11:01.000Z"
+        },
+        {
+          "title": "Russia says Zelensky is sabotaging peace talks, but Kyiv points to Moscow's rejected ceasefire proposals",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1JSm5WWWdvX0VQYmdDWjB1MkFpenVNTG1pdFlvUkl1eVQ2WEFBTHlrbF94eWkzbXRJNnQ5ZnVuaGIxVWlEeEhmb052eUZFRnVXTEJVQzhvb1JDYXN1RU1pWmZFSi1yQmhiVDc1X3hnM2kwLXFUQi1fajRlZFBIdF9n?oc=5",
+          "publishedAt": "2026-11-28T05:08:23.000Z"
         }
       ]
     },
     "duty": {
-      "asOf": "2026-11-28T04:19:39.075144+00:00",
+      "asOf": "2026-11-28T13:40:50.851900+00:00",
       "date": "2026-11-28",
       "entries": [
         {
